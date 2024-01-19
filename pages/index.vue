@@ -11,18 +11,17 @@
            Descargar
         </button>
       </div>
-      <div class="text-center">
-        Contacto: bsrg2001@hotmail.com
-        <button class="px-4 py-1 text-sm text-black font-semibold border border-black hover:text-white hover:bg-black hover:border-transparent focus:outline-none focus:ring-2 focus:ring-offset-2">
+      <div class="text-center" id="texto">
+        Contacto: 
+        <span class="text">bsrg722001@gmail.com</span>
+        <button id="copiar" class="px-4 py-1 text-sm text-black font-semibold border border-black hover:text-white hover:bg-black hover:border-transparent focus:outline-none focus:ring-2 focus:ring-offset-2">
             Copiar
         </button>
       </div>
     </div>
     <div class="text-center my-96">
       <h2 class="text-xl">Perfil</h2>
-      Me gusta el desarrollo de software de forma agil ya sea con Yira o Trello. 
-      Amante de la programacion en la nube con Amazon y Google. 
-      Me gusta poner pautas de ciberseguridad. 
+        Amante de la programacion en la nube con Amazon y Google. Me gusta poner pautas de ciberseguridad. 
     </div>
     <h1 class="text-3xl text-center">Proyectos</h1>
     <div class="">
